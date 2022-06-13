@@ -1,5 +1,5 @@
 # cpp_tcpSockets
-TCP Socket solution for cpp programs. Server and Client are running in separate threads but with the fixed frequency the exchange is performed constantly. The transfer and receive data are defined on both sides. They can be set manually with "getReceiveBuffer()"/"setSendBuffer() or in defined action functions for permanent data exchange. 
+TCP Socket solution for cpp programs. Server and Client are running in separate threads but with the fixed frequency the exchange is performed constantly. The transfer and receive data are defined on both sides. They can be set manually or in defined action functions for permanent data exchange. 
 
 ## Installation
 Use in the "include" folder the header files for Server and Client applications
